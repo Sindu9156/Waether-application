@@ -3,7 +3,7 @@ import './App.css';
 
 import { useState } from 'react';
 
-const API_key="332ee4b0b4c58b9ca2c2654242d102a0";
+const API_key="api_key";
 
 
 function App() {
