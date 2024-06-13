@@ -1,0 +1,36 @@
+.search-bar{
+  width: 100%;
+  border:2px solid gray;
+  background-color: white;
+  border-radius: 20px;
+}
+.search{
+  border: 0px;
+  margin-left: 10px;
+  outline: 0px;
+  width: 100%;
+}
+.weather-info{
+  text-align: center;
+  margin-top: 20px;
+  
+}
+body{
+  background-image: url('backimg1.jpg');
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-position:45% 40%;
+  
+}
+.weather-info{
+  border: 2px solid white;
+  margin: auto;
+  width:30%;
+  background-color: white;
+}
+.heading{
+  
+  padding-left: 40%;
+  color: white;
+}
